@@ -1,19 +1,16 @@
-﻿Random random = new Random();
-int current = random.Next(1, 11);
-
+﻿Random dice = new Random();
+int heroeHealth = 10;
+int villianHealth = 10;
 do
 {
-    current = random.Next(1, 11);
-    if (current >= 8) continue;
+    int roll = dice.Next(1,11);
+    villianHealth-=roll;
+    Console.WriteLine($"Monster was damaged and lost {roll} health and now has {villianHealth} health.");
+    
+    if(villianHealth <= 0)continue;
 
-    Console.WriteLine(current);
-} while (current != 7);
-
-/*
-while (current >= 3)
-{
-    Console.WriteLine(current);
-    current = random.Next(1, 11);
-}
-Console.WriteLine($"Last number: {current}");
-*/
+    roll = dice.Next(1,11);
+    heroeHealth -= roll;
+    Console.WriteLine($"Hero was damaged and lost {roll} health and now has {heroeHealth} health.");
+} while (heroeHealth > 0 && villianHealth > 0);
+Console.WriteLine(heroeHealth > villianHealth ? "Hero Wins!" : "Monster Wins!");
