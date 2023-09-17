@@ -8,44 +8,57 @@ string type = "";
 string color = "";
 string size = "";
 
-if (product[0] == "01")
+switch (product[0])
 {
-    type = "Sweat shirt";
-} else if (product[0] == "02")
-{
-    type = "T-Shirt";
-} else if (product[0] == "03")
-{
-    type = "Sweat pants";
-}
-else
-{
-    type = "Other";
+    case "01":
+        type = "Sweat shirt";
+        break;
+
+    case "02":
+        type = "T-Shirt";
+        break;
+
+    case "03":
+        type = "Sweat pants";
+        break;
+
+    default:
+        type = "Other";
+        break;
 }
 
-if (product[1] == "BL")
+switch(product[1])
 {
-    color = "Black";
-} else if (product[1] == "MN")
-{
-    color = "Maroon";
-} else
-{
-    color = "White";
+    case "BL":
+        color = "Black";
+        break;
+
+    case "MN":
+        color = "Maroon";
+        break;
+
+    default:
+        color = "White";
+        break;
 }
 
-if (product[2] == "S")
+switch(product[2])
 {
-    size = "Small";
-} else if (product[2] == "M")
-{
-    size = "Medium";
-} else if (product[2] == "L")
-{
-    size = "Large";
-} else
-{
-    size = "One Size Fits All";
+    case "S":
+        size = "Small";
+        break;
+
+    case "M":
+        size = "Medium";
+        break;
+
+    case "L":
+        size = "Large";
+        break;
+    
+    default:
+        size = "One Size Fits All";
+        break;
 }
 
 Console.WriteLine($"Product: {size} {color} {type}");
