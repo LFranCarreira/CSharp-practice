@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\bin\Debug\net7.0\WhileProject3.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\bin\Debug\net7.0\WhileProject3.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\bin\Debug\net7.0\WhileProject3.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\bin\Debug\net7.0\WhileProject3.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\bin\Debug\net7.0\WhileProject3.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\WhileProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\WhileProject3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\WhileProject3.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\WhileProject3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\WhileProject3.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\refint\WhileProject3.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\WhileProject3.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\WhileProject3.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\WhileProject3\obj\Debug\net7.0\ref\WhileProject3.dll
