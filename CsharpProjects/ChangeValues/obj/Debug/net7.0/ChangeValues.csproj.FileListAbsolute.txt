@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\bin\Debug\net7.0\ChangeValues.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\bin\Debug\net7.0\ChangeValues.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\bin\Debug\net7.0\ChangeValues.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\bin\Debug\net7.0\ChangeValues.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\bin\Debug\net7.0\ChangeValues.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ChangeValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ChangeValues.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ChangeValues.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ChangeValues.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ChangeValues.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\refint\ChangeValues.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ChangeValues.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ChangeValues.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\ChangeValues\obj\Debug\net7.0\ref\ChangeValues.dll
