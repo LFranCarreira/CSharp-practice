@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\bin\Debug\net7.0\Integer.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\bin\Debug\net7.0\Integer.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\bin\Debug\net7.0\Integer.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\bin\Debug\net7.0\Integer.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\bin\Debug\net7.0\Integer.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\Integer.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\Integer.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\Integer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\Integer.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\refint\Integer.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\Integer.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\Integer.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Integer\obj\Debug\net7.0\ref\Integer.dll
