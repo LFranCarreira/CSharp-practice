@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\bin\Debug\net7.0\Methods2.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\bin\Debug\net7.0\Methods2.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\bin\Debug\net7.0\Methods2.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\bin\Debug\net7.0\Methods2.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\bin\Debug\net7.0\Methods2.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\Methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\Methods2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\Methods2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\Methods2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\Methods2.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\refint\Methods2.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\Methods2.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\Methods2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Methods2\obj\Debug\net7.0\ref\Methods2.dll
