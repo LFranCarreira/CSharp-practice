@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\bin\Debug\net7.0\Format.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\bin\Debug\net7.0\Format.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\bin\Debug\net7.0\Format.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\bin\Debug\net7.0\Format.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\bin\Debug\net7.0\Format.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\Format.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\Format.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\Format.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\Format.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\refint\Format.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\Format.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\Format.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Format\obj\Debug\net7.0\ref\Format.dll
