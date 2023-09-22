@@ -196,7 +196,7 @@ do
                     // #3a iterate submitted characteristic terms and search description for each term
                     if(matchesCurrentDog)
                     {
-                        Console.WriteLine($"\r{ourAnimals[i, 3]} ({ourAnimals[i, 0]})\n{dogDescription}\n"):
+                        Console.WriteLine($"\r{ourAnimals[i, 3]} ({ourAnimals[i, 0]})\n{dogDescription}\n");
                     }
 
                     // #3d if "this dog" is match write match message + dog description
