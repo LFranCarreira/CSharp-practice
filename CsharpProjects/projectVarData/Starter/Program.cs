@@ -73,7 +73,6 @@ for (int i = 0; i < maxPets; i++)
             animalNickname = "";
             suggestedDonation = "";
             break;
-
     }
 
     ourAnimals[i, 0] = "ID #: " + animalID;
@@ -83,7 +82,8 @@ for (int i = 0; i < maxPets; i++)
     ourAnimals[i, 4] = "Physical description: " + animalPhysicalDescription;
     ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
     
-    if (!decimal.TryParse(suggestedDonation, out decimalDonation)){
+    if (!decimal.TryParse(suggestedDonation, out decimalDonation))
+    {
         decimalDonation = 45.00m; // if suggestedDonation NOT a number, default to 45.00
     }
     ourAnimals[i, 6] = $"Suggested Donation: {decimalDonation:C2}";
@@ -102,6 +102,7 @@ do
     Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
 
     readResult = Console.ReadLine();
+    
     if (readResult != null)
     {
         menuSelection = readResult.ToLower();
