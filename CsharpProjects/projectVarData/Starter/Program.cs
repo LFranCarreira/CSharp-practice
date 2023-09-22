@@ -102,7 +102,7 @@ do
     Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
 
     readResult = Console.ReadLine();
-    
+
     if (readResult != null)
     {
         menuSelection = readResult.ToLower();
@@ -149,7 +149,12 @@ do
 
             bool noMatchesDog = true;
             string dogDescription = "";
-            
+            string[] dogSearches = dogCharacteristic.Split(",");
+            for(int i = 0; i < dogSearches.Length; i ++)
+            {
+                dogSearches[i] = dogSearches[i].Trim();
+            }
+            Array.Sort(dogSearches);
             // #4 update to "rotating" animation with countdown
             string[] searchingIcons = {".  ", ".. ", "..."};
 
