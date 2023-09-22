@@ -167,28 +167,36 @@ do
                     
                     // Search combined descriptions and report results
                     dogDescription = ourAnimals[i, 4] + "\r\n" + ourAnimals[i, 5];
-                    
-                    for (int j = 5; j > -1 ; j--)
-                    {
-                    // #5 update "searching" message to show countdown 
-                        foreach (string icon in searchingIcons)
-                        {
-                            Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {dogCharacteristic} {icon}");
-                            Thread.Sleep(250);
-                        }
-                        
-                        Console.Write($"\r{new String(' ', Console.BufferWidth)}");
-                    }
-                    
-                    // #3a iterate submitted characteristic terms and search description for each term
-                    
-                    if (dogDescription.Contains(dogCharacteristic))
-                    {
-                        // #3b update message to reflect term 
-                        // #3c set a flag "this dog" is a match
-                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
+                    bool matchesCurrentDog = false;
 
-                        noMatchesDog = false;
+                    // #5 update "searching" message to show countdown 
+                    foreach(string term in dogSearches)
+                    {
+                        if( term != null && term.Trim() != "")
+                        {
+                            for (int j = 2; j > -1 ; j--)
+                            {
+                                foreach (string icon in searchingIcons)
+                                {
+                                    Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {dogCharacteristic} {icon}");
+                                    Thread.Sleep(100);
+                                }
+                        
+                                Console.Write($"\r{new String(' ', Console.BufferWidth)}");
+                            }
+                            if(dogDescription.Contains(" " + term.Trim() + " "))
+                            {
+                                Console.WriteLine($"\rOur dog {ourAnimals[i, 3]} matches your search for {term.Trim()}");
+
+                                matchesCurrentDog = true;
+                                noMatchesDog = true;
+                            }
+                        }
+                    }        
+                    // #3a iterate submitted characteristic terms and search description for each term
+                    if(matchesCurrentDog)
+                    {
+                        Console.WriteLine($"\r{ourAnimals[i, 3]} ({ourAnimals[i, 0]})\n{dogDescription}\n"):
                     }
 
                     // #3d if "this dog" is match write match message + dog description
