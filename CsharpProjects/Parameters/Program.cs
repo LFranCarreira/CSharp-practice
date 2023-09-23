@@ -38,24 +38,74 @@
 // }
 
 
-double pi = 3.14159;
-PrintCircleInfo(12);
-PrintCircleInfo(24);
+// double pi = 3.14159;
+// PrintCircleInfo(12);
+// PrintCircleInfo(24);
 
-void PrintCircleInfo(int radius)
-{
-    Console.WriteLine($"Circle with radius {radius}");
-    PrintCircleArea(radius);
-    PrintCircleCircumference(radius);
-}
-void PrintCircleArea(int radius)
-{
-    double area = pi * (radius * radius);
-    Console.WriteLine($"Area = {area}");
-}
+// void PrintCircleInfo(int radius)
+// {
+//     Console.WriteLine($"Circle with radius {radius}");
+//     PrintCircleArea(radius);
+//     PrintCircleCircumference(radius);
+// }
+// void PrintCircleArea(int radius)
+// {
+//     double area = pi * (radius * radius);
+//     Console.WriteLine($"Area = {area}");
+// }
 
-void PrintCircleCircumference(int radius)
+// void PrintCircleCircumference(int radius)
+// {
+//     double circumference = 2 * pi * radius;
+//     Console.WriteLine($"Circumference = {circumference}");
+// }
+
+
+// int a = 3;
+// int b = 4;
+// int c = 0;
+
+// Multiply(a, b, c);
+// Console.WriteLine($"global statement: {a} x {b} = {c}");
+
+// void Multiply(int a, int b, int c)
+// {
+//     c = a * b;
+//     Console.WriteLine($"inside Multiply method: {a} x {b} = {c}");
+// }
+
+
+// int[] array = { 1, 2, 3, 4, 5 };
+
+// PrintArray(array);
+// Clear(array);
+// PrintArray(array);
+
+// void PrintArray(int[] array)
+// {
+//     foreach (int a in array)
+//     {
+//         Console.Write($"{a} ");
+//     }
+// }
+
+// void Clear(int[] array)
+// {
+//     for (int i = 0; i < array.Length; i++)
+//     {
+//         array[i] = 0;
+//     }
+// }
+
+
+string status = "Healthy";
+
+Console.WriteLine($"Start: {status}");
+SetHealth(status, false);
+Console.WriteLine($"End: {status}");
+
+void SetHealth(string status, bool isHealthy)
 {
-    double circumference = 2 * pi * radius;
-    Console.WriteLine($"Circumference = {circumference}");
+    status = (isHealthy ? "Healthy" : "Unhealthy");
+    Console.WriteLine($"Middle: {status}");
 }
