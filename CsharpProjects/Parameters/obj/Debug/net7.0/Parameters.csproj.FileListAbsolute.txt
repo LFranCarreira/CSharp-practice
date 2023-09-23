@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\bin\Debug\net7.0\Parameters.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\bin\Debug\net7.0\Parameters.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\bin\Debug\net7.0\Parameters.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\bin\Debug\net7.0\Parameters.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\bin\Debug\net7.0\Parameters.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\Parameters.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\Parameters.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\Parameters.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\refint\Parameters.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\Parameters.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\Parameters.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Parameters\obj\Debug\net7.0\ref\Parameters.dll
