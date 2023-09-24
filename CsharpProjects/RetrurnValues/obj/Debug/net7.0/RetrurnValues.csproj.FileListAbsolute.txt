@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\bin\Debug\net7.0\RetrurnValues.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\bin\Debug\net7.0\RetrurnValues.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\bin\Debug\net7.0\RetrurnValues.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\bin\Debug\net7.0\RetrurnValues.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\bin\Debug\net7.0\RetrurnValues.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\RetrurnValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\RetrurnValues.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\RetrurnValues.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\RetrurnValues.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\RetrurnValues.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\refint\RetrurnValues.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\RetrurnValues.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\RetrurnValues.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\RetrurnValues\obj\Debug\net7.0\ref\RetrurnValues.dll
