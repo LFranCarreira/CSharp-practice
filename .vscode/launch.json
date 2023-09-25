@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/CsharpProjects/Debug101/bin/Debug/net7.0/Debug101.dll",
             "args": [],
             "cwd": "${workspaceFolder}/CsharpProjects/Debug101",
-            "console": "internalConsole",
+            "console":"integratedTerminal",
             "stopAtEntry": false
         },
         {
