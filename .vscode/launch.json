@@ -5,7 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch (console)",
+            "name": "Excpetions101",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/CsharpProjects/Exceptions101/bin/Debug/net7.0/Exceptions101.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CsharpProjects/Exceptions101",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "Debug101",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
