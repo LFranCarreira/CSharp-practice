@@ -135,8 +135,7 @@ while (goodEntry == false)
 }
 
 // Display the sum and then pause.
-Console.WriteLine($"\n\rThe sum of numbers {startIndex} through {numbers.Length} is: {SumValues(numbers, startIndex)}");
-
+Console.WriteLine($"\n\rThe sum of numbers {startIndex} through {numbers.Length} is: {SumValues(numbers, startIndex - 1)}");
 Console.WriteLine("press Enter to exit");
 readResult = Console.ReadLine();
 
