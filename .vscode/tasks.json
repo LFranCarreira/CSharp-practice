@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/CsharpProjects/Projects/While-Project1/While-Project1.csproj",
+                "${workspaceFolder}/CsharpProjects/Debug101/Debug101.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/CsharpProjects/Projects/While-Project1/While-Project1.csproj",
+                "${workspaceFolder}/CsharpProjects/Debug101/Debug101.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/CsharpProjects/Projects/While-Project1/While-Project1.csproj"
+                "${workspaceFolder}/CsharpProjects/Debug101/Debug101.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
