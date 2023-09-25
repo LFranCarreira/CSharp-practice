@@ -13,9 +13,8 @@ foreach (string name in names)
         messageText = SophiaMessage();
     else if (name == "Andrew")
         messageText = AndrewMessage();
-    else if (name == "AllGreetings")
-        messageText = SophiaMessage();
-        messageText = messageText + "\n\r" + AndrewMessage();
+else if (name == "AllGreetings")
+    messageText = SophiaMessage() + "\n\r" + AndrewMessage();
 
     Console.WriteLine(messageText + "\n\r");
 }
