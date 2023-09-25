@@ -12,3 +12,17 @@ C:\Users\Usuario\Desktop\C#\CsharpProjects\While-Project1\obj\Debug\net7.0\refin
 C:\Users\Usuario\Desktop\C#\CsharpProjects\While-Project1\obj\Debug\net7.0\While-Project1.pdb
 C:\Users\Usuario\Desktop\C#\CsharpProjects\While-Project1\obj\Debug\net7.0\While-Project1.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\C#\CsharpProjects\While-Project1\obj\Debug\net7.0\ref\While-Project1.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\bin\Debug\net7.0\While-Project1.exe
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\bin\Debug\net7.0\While-Project1.deps.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\bin\Debug\net7.0\While-Project1.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\bin\Debug\net7.0\While-Project1.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\bin\Debug\net7.0\While-Project1.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\While-Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\While-Project1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\While-Project1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\While-Project1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\While-Project1.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\refint\While-Project1.dll
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\While-Project1.pdb
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\While-Project1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\CsharpProjects\Projects\While-Project1\obj\Debug\net7.0\ref\While-Project1.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\While-Project1\\While-Project1.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\Projects\\While-Project1\\While-Project1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\While-Project1\\While-Project1.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\Projects\\While-Project1\\While-Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\While-Project1\\While-Project1.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\Projects\\While-Project1\\While-Project1.csproj",
         "projectName": "While-Project1",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\While-Project1\\While-Project1.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\Projects\\While-Project1\\While-Project1.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\While-Project1\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\C#\\CsharpProjects\\Projects\\While-Project1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
