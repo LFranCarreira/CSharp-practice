@@ -5,25 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Excpetions101",
+            "name": "ThrowExceptions 101",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/CsharpProjects/Exceptions101/bin/Debug/net7.0/Exceptions101.dll",
+            "program": "${workspaceFolder}/CsharpProjects/ThrowExceptions101/bin/Debug/net7.0/ThrowExceptions101.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/CsharpProjects/Exceptions101",
-            "stopAtEntry": false,
-            "console": "internalConsole"
-        },
-        {
-            "name": "Debug101",
-            "type": "coreclr",
-            "request": "launch",
-            "preLaunchTask": "build",
-            "program": "${workspaceFolder}/CsharpProjects/Debug101/bin/Debug/net7.0/Debug101.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/CsharpProjects/Debug101",
-            "console":"integratedTerminal",
+            "cwd": "${workspaceFolder}/CsharpProjects/ThrowExceptions101",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
