@@ -5,13 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "ThrowExceptions 101",
+            "name": "guidedproject2",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/CsharpProjects/ThrowExceptions101/bin/Debug/net7.0/ThrowExceptions101.dll",
+            "program": "${workspaceFolder}/CsharpProjects/Projects/GuidedProject2/Starter/bin/Debug/net7.0/Starter.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/CsharpProjects/ThrowExceptions101",
+            "cwd": "${workspaceFolder}/CsharpProjects/Projects/GuidedProject2/Starter",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/CsharpProjects/ThrowExceptions101/ThrowExceptions101.csproj",
+                "${workspaceFolder}/CsharpProjects/Projects/GuidedProject2/Starter/Starter.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/CsharpProjects/ThrowExceptions101/ThrowExceptions101.csproj",
+                "${workspaceFolder}/CsharpProjects/Projects/GuidedProject2/Starter/Starter.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/CsharpProjects/ThrowExceptions101/ThrowExceptions101.csproj"
+                "${workspaceFolder}/CsharpProjects/Projects/GuidedProject2/Starter/Starter.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
